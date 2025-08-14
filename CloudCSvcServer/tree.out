@@ -1,0 +1,23 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< dsg.ccsvc:ZKServer >--------------------------
+[INFO] Building ZKServer 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ ZKServer ---
+[INFO] dsg.ccsvc:ZKServer:jar:1.0-SNAPSHOT
+[INFO] +- com.zaxxer:HikariCP:jar:4.0.3:compile
+[INFO] +- org.apache.commons:commons-lang3:jar:3.12.0:compile
+[INFO] +- software.amazon.jdbc:aws-advanced-jdbc-wrapper:jar:2.2.2:compile
+[INFO] |  \- org.checkerframework:checker-qual:jar:3.26.0:runtime
+[INFO] +- org.postgresql:postgresql:jar:42.6.0:compile
+[INFO] +- org.projectlombok:lombok:jar:1.18.6:provided
+[INFO] +- org.slf4j:slf4j-api:jar:1.7.26:compile
+[INFO] +- org.slf4j:slf4j-simple:jar:1.7.26:compile
+[INFO] \- commons-cli:commons-cli:jar:1.5.0:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.477 s
+[INFO] Finished at: 2024-10-22T13:42:37-04:00
+[INFO] ------------------------------------------------------------------------
